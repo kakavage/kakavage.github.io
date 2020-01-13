@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lese.com" resolutions="1x" timestamp="1578936083534">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="steal-your-dick.css" crc="4288176696" ref="steal-your-dick"/>
+    <file name="jiwawa.css" crc="534447643" ref="jiwawa"/>
+    <file name="index.css" crc="4216272563" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="za20_972.tif" crc="3909144497" seo="true" mt="1577920346000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:steal-your-dick:jiwawa"/>
+    <file name="museutils.js" crc="4216313831" ref="index:steal-your-dick:jiwawa"/>
+    <file name="whatinput.js" crc="86476730" ref="index:steal-your-dick:jiwawa"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:steal-your-dick:jiwawa"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:steal-your-dick:jiwawa"/>
+    <file name="require.js" crc="3951022091" ref="index:steal-your-dick:jiwawa"/>
+  </folder>
+  <folder name="images">
+    <file name="吉娃我就爛.png" crc="4098379519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u441.png" crc="3846454207" ref="index"/>
+    <file name="u441-r.png" crc="4258015109" ref="index"/>
+    <file name="u558-4.png" crc="185775865" ref="index"/>
+    <file name="u513_states.png" crc="264378233" ref="index"/>
+    <file name="u513_states-r.png" crc="4106789088" ref="index"/>
+    <file name="洨矮人 動畫02.jpg" crc="35903200" seo="true" ref="steal-your-dick">
+      <caption webpage="steal-your-dick" alt=""/>
+    </file>
+    <file name="u495-4.png" crc="3878486651" ref="steal-your-dick"/>
+    <file name="吉娃娃.png" crc="4097535113" seo="true" ref="jiwawa">
+      <caption webpage="jiwawa" alt=""/>
+    </file>
+    <file name="u553-4.png" crc="3878486651" ref="jiwawa"/>
+  </folder>
+  <file name="index.html" crc="117228244" seo="true" mt="1578934836624" redirect="true"/>
+  <file name="steal-your-dick.html" crc="44695194" seo="true" mt="1578934322270" redirect="true"/>
+  <file name="jiwawa.html" crc="3982829008" seo="true" mt="1578934272860" redirect="true"/>
+</manifest>
